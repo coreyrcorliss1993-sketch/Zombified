@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbbeccd29847cc14caab43bf4cf8ca26, type: 3}
+  m_Name: DefaultContainerRollTable
+  m_EditorClassIdentifier: Assembly-CSharp::ContainerRollTable
+  outcomes:
+  - numberOfLootRolls: 0
+    weight: 10
+  - numberOfLootRolls: 1
+    weight: 62
+  - numberOfLootRolls: 2
+    weight: 22
+  - numberOfLootRolls: 3
+    weight: 11
+  - numberOfLootRolls: 4
+    weight: 3
+  - numberOfLootRolls: 0
+    weight: 0.5
